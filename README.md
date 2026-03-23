@@ -31,7 +31,7 @@
 
 - **React** with **React Router** – SPA development, client-side routing
 
-#### **CI/CD & DevOps**
+#### **DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
