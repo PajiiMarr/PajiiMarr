@@ -8,7 +8,7 @@ Full-stack developer building **Student Service Platform** with Go + React Route
 - **Auth:** JWT, HttpOnly cookies
 
 ## 🚀 Current Projects
-- [Student Service Platform](https://github.com/YOUR_USERNAME/student-service-platform)
+- [Student Service Platform](https://github.com/Pajiimarr/student-service-platform)
 
 ## 📫 Contact
 - Email: you@email.com
