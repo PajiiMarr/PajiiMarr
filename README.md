@@ -1,3 +1,5 @@
+<h1>Hello I'm currently building an AI powered Used Electronics E-Commerce!</h1>
+
 <h1 align="center">Hi there, I'm Mar 👋</h1>
 
 <h3 align="center">A passionate Computer Science student from the Philippines 🇵🇭</h3>
