@@ -72,21 +72,8 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:marmanonog07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
 - 📧 Email: [marmanonog07@gmail.com](mailto:marmanonog07@gmail.com)
-
----
-
-### 🚀 Current Focus
-
-- Building scalable backend systems with **Go**
-- Improving frontend skills with **React**
-- Exploring **DevOps best practices** with GitHub Actions and Docker
+- 💼 LinkedIn: [Marlo Manon-og](https://www.linkedin.com/in/marlo-manon-og-a88745392/)
 
 ---
 
