@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm currently CrimsoTech, an AI powered Used Electronics E-Commerce!</h1>
+<h1 align="center">Hello I'm currently <strong>CrimsoTech</strong>, an AI powered Used Electronics E-Commerce!</h1>
 
 <details>
 
