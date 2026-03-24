@@ -1,5 +1,6 @@
-<h1 align="center">Hello I'm currently <strong>CrimsoTech</strong>, an AI powered Used Electronics E-Commerce!</h1>
+<h1 align="center">Hello I'm currently CrimsoTech, an AI powered Used Electronics E-Commerce!</h1>
 
+<img src="assets/Crimsotech.png">
 <details>
 
 <h1 align="center">Hi there, I'm Mar 👋</h1>
