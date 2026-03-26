@@ -104,11 +104,7 @@
 
 ---
 
-*⭐️ Feel free to check out my repositories and connect with me!*
-
----
-
-### 🗣️ Languages I Work With
+### 🗣️ Techstack Summary
 
 <table align="center">
   <tr>
