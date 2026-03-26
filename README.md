@@ -1,10 +1,4 @@
 <h1 align="center">Hello I'm currently building CrimsoTech, an AI powered Used Electronics E-Commerce!</h1>
-
-<p align="center">
-  <img src="assets/Crimsotech.png" width="500">
-</p>
-
-<h1 align="center">Hello I'm currently building CrimsoTech, an AI powered Used Electronics E-Commerce!</h1>
 <p align="center">
   <img src="assets/Crimsotech.png" width="500">
 </p>
