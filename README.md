@@ -30,6 +30,16 @@
 - **Go** (Golang) – REST APIs, microservices
 - **Python** – Scripting, backend logic, automation
 
+#### **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+- **PostgreSQL** – Primary relational database for production apps
+- **MySQL** – Relational database for structured data
+- **SQL** – Querying, schema design, migrations
+
 #### **Frontend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
