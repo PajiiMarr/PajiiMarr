@@ -1,3 +1,5 @@
+<h1>Pagandahin ko for your referrence para magaya mo hahahahhha</h1>
+
 <h1 align="center">Hello I'm currently building CrimsoTech, an AI powered Used Electronics E-Commerce!</h1>
 <p align="center">
   <img src="assets/Crimsotech.png" width="500">
