@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">A passionate Computer Science student building CrimsoTech, an AI-powered Used Electronics E-Commerce platform from the Philippines 🇵🇭</h3>
+<h3 align="center">A passionate Computer Science student in Western Mindanao State University</h3>
 
 ###
 
