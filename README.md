@@ -1,4 +1,4 @@
-<h1>ganda na</h1>
+<h1>ganda na, pero tinanggal mo </h1>
 
 <h1 align="center">Hey 👋 What's Up? I'm Mar</h1>
 
