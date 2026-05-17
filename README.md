@@ -67,5 +67,3 @@
 </p>
 
 ###
-
-smirnoff dabess
