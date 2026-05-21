@@ -67,4 +67,3 @@
 </p>
 
 ###
-test_commit heatmap
