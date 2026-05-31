@@ -66,6 +66,5 @@
   Connecting buyers and sellers of pre-loved gadgets with intelligent recommendations
 </p>
 
-test_commit
 
 ###
