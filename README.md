@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Computer Science student in Western Mindanao State University</h3>
+<h3 align="center">A passionate Bachelor of Science in Computer Science student in Western Mindanao State University</h3>
 
 ###
 
