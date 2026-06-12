@@ -57,5 +57,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PajiiMarr/PajiiMarr/output/pacman-contribution-graph.svg">
 </picture>
 
-
-test_commit
